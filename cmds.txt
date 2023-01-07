@@ -1,0 +1,10 @@
+/info -- Displays information about the current song
+/pause -- Pauses the current song playing
+/play song [URL] -- Plays a song (Must be a valid youtube URL)
+/play search [KEYWORDS] -- Plays a song based off the keywords
+/queue -- Displays the queue
+/quit -- The bot will leave the voice channel
+/resume -- resumes the current song playing
+/shuffle -- shuffles the current playlist
+/skip -- skips to the next song in the playlist
+/skipto -- skips to a chosen song within the current playlist
